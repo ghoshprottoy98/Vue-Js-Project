@@ -2,7 +2,7 @@
   "name": "superstore",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Md. Shahinur Rahman <coredeveloper.2013@gmail.com>",
+  "author": "Prottoy Ghosh",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
